@@ -1,4 +1,0 @@
-#Mon Nov 11 08:04:15 PST 2019
-base.0=/home/nan/ML/smartPhone/GyroBall/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex

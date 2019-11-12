@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-<string-array name="viewanglemethod"><item>30 degrees from the vertical</item>
-<item>Directly above</item>
-</string-array>
-<string-array name="viewanglevalue"><item>1</item>
-<item>2</item>
-</string-array>
-</resources>
