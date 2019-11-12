@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nan/ML/smartPhone/GyroBall/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/nan/ML/smartPhone/GyroBall/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "268,326",
+                        "endColumns": "57,55",
+                        "endOffsets": "321,377"
+                    }
+                },
+                {
+                    "source": "/home/nan/ML/smartPhone/GyroBall/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,10,8,7,6,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "107,59,157,793,457,273,211,740",
+                        "endColumns": "48,46,52,58,281,182,60,51",
+                        "endOffsets": "151,101,205,847,734,451,267,787"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "382,431,478,531,590,869,1052,1113",
+                        "endColumns": "48,46,52,58,278,182,60,51",
+                        "endOffsets": "426,473,526,585,864,1047,1108,1160"
+                    }
+                },
+                {
+                    "source": "/home/nan/ML/smartPhone/GyroBall/app/src/main/res/values/arrays.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "51,174",
+                        "endLines": "4,7",
+                        "endColumns": "15,15",
+                        "endOffsets": "173,255"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,182",
+                        "endLines": "4,7",
+                        "endColumns": "15,15",
+                        "endOffsets": "177,263"
+                    }
+                },
+                {
+                    "source": "/home/nan/ML/smartPhone/GyroBall/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "18,25",
+                        "startColumns": "4,4",
+                        "startOffsets": "1165,1456",
+                        "endLines": "24,27",
+                        "endColumns": "12,12",
+                        "endOffsets": "1451,1611"
+                    }
+                }
+            ]
+        }
+    ]
+}

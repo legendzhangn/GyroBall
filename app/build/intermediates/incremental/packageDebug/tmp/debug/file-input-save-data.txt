@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Mon Nov 11 08:04:15 PST 2019
+7.path=normal0_line_big.bin
+2.base=/home/nan/ML/smartPhone/GyroBall/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+5.set=ASSET
+0.path=normal1_line.bin
+2.baseType=DIRECTORY
+3.base=/home/nan/ML/smartPhone/GyroBall/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+7.baseType=DIRECTORY
+2.set=ASSET
+1.path=normal3_line.bin
+4.base=/home/nan/ML/smartPhone/GyroBall/app/build/intermediates/transforms/dexMerger/debug/0
+7.set=ASSET
+count=8
+5.baseType=DIRECTORY
+2.path=normal0_line.bin
+5.base=/home/nan/ML/smartPhone/GyroBall/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+4.set=DEX
+3.path=normal3_line_big.bin
+6.base=/home/nan/ML/smartPhone/GyroBall/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=classes.dex
+7.base=/home/nan/ML/smartPhone/GyroBall/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=fonts/DS-DIGI.TTF
+0.base=/home/nan/ML/smartPhone/GyroBall/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=normal1_line_big.bin
+1.base=/home/nan/ML/smartPhone/GyroBall/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+4.baseType=DIRECTORY
+0.set=ASSET

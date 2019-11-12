@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="viewanglemethod"><item>30 degrees from the vertical</item>
+<item>Directly above</item>
+</string-array>
+    <string-array name="viewanglevalue"><item>1</item>
+<item>2</item>
+</string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_manual">Manual</string>
+    <string name="app_name">Gyro Ball</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="instruction_title">Instructions</string>
+    <string name="instructions">1. Hold the phone in your dominate hand firmly. Swipe the ball with your thumb to start rotation.\n2. After RPM>2000, apply a rapid left to right motion to accelerating the rotation.\n3. If exercise done, press the ball to stop rotation.</string>
+    <string name="rpm">The numbers shown are current RPM / max RPM. Revolutions Per Minute (RPM) measures how fast the ball rotates. Press the reset key to set max RPM to 0.</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="ui_title">User Interface</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
