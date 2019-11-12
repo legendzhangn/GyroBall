@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:5:5-31
+		INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:11:5-95
+	android:name
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:12:5-83
+	android:name
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:12:22-64
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:13:19-67
+application
+ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:15:5-36:19
+	android:label
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.goldsequence.gyroball.MainActivity
+ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:21:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.goldsequence.gyroball.HelpActivity
+ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:29:9-32:20
+	android:label
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:30:13-66
+activity#com.goldsequence.gyroball.SettingActivity
+ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:33:9-61
+	android:name
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:33:19-49
+activity#com.goldsequence.gyroball.SettingTabActivity
+ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:35:1-56
+	android:name
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml:35:11-44
+uses-sdk
+INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+		ADDED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nan/ML/smartPhone/GyroBall/app/src/main/AndroidManifest.xml
